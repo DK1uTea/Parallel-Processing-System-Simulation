@@ -1,0 +1,30 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Generated output directories
+plots/
+results/
+temp_files/
+logs/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
